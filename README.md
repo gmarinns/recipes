@@ -1,3 +1,3 @@
 # Recipes
 
-Programa em HTML utilizado para o desenvolvimneto para um site de receitas.
+Programa em HTML utilizado para o desenvolvimento para um site de receitas.
